@@ -1,2 +1,2 @@
 # BBC_Webpage_Clone
-Tech used : HTML, CSS and JS
+Tech used : HTML, CSS
